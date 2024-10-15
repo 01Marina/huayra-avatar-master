@@ -1,0 +1,16 @@
+{
+    "name": "Huayra-Avatar",
+    "version": "1.2.0",
+    "main": "index.html",
+    "config": {
+      "livereload": false
+    },
+    "window": {
+        "title": "Huayra-Avatar",
+        "toolbar": false,
+        "width": 900,
+        "height": 550,
+        "min_width": 900,
+        "min_height": 550
+    }
+}

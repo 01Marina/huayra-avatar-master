@@ -1,0 +1,23 @@
+{
+  "name": "huayra-avatar",
+  "version": "0.38",
+  "description": "Un programa sencillo para hacer avatares en huayra",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuayraLinux/huayra-avatar.git"
+  },
+  "author": "Hugo Ruscitti",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/HuayraLinux/huayra-avatar/issues"
+  },
+  "homepage": "https://github.com/HuayraLinux/huayra-avatar",
+  "devDependencies": {
+    "electron": "^1.4.0"
+  }
+}

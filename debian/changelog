@@ -1,0 +1,24 @@
+huayra-avatar (1.3) unstable; urgency=medium
+
+  * fix de commillas en la version!
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Tue, 23 Feb 2021 13:43:59 -0300
+
+huayra-avatar (1.2) unstable; urgency=medium
+
+  * fix path menu about (merge #21)
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 22 Feb 2021 21:09:24 -0300
+
+huayra-avatar (1.1) unstable; urgency=medium
+
+  * fix path del launcher =|
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 22 Feb 2021 19:12:32 -0300
+
+huayra-avatar (1.0) unstable; urgency=medium
+
+  * Renombre del paquete de huarya-caripela a huayra-avatar
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 22 Feb 2021 18:28:52 -0300
+

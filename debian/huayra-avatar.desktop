@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Huayra Avatar
+Comment=Permite crear personajes sencillos
+Exec=/usr/bin/huayra-avatar
+Terminal=false
+Type=Application
+Icon=huayra-avatar
+Categories=Graphics;Huayra;
+StartupWMClass=huayra-avatar
